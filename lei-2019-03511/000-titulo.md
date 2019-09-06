@@ -1,0 +1,2 @@
+# LEI N° 3.511, DE 04 DE SETEMBRO DE 2019 Autoriza o Poder Executivo a abrir crédito adicional suplementar no orçamento do Município, com base em anulação parcial de dotação orçamentária, no valor de R$ 38.000,00 (trinta e oito mil reais), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Prefeito Municipal, com fundamento nos artigos 41, I, 42 e 43, § 1º, III da Lei Federal nº 4.320, de 17 de março de 1964, sanciono a seguinte Lei:
