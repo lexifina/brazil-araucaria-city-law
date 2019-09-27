@@ -1,0 +1,2 @@
+# LEI N° 3.521, DE 25 DE SETEMBRO DE 2019 Autoriza o Poder Executivo a abrir crédito adicional especial no orçamento do Município, com base em anulação parcial de dotação orçamentária, no valor de R$ 76.182,89 (setenta e seis mil, cento e oitenta e dois reais e oitenta e nove centavos), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
