@@ -1,0 +1,1 @@
+# LEI Nº 3.531, DE 23 DE OUTUBRO DE 2019 Dispõe sobre a obrigatoriedade de divulgação do cardápio da merenda escolar oferecida aos alunos da Rede Municipal de Ensino de Araucária, conforme especifica.
