@@ -1,0 +1,2 @@
+# LEI N° 3.545/2019, DE 18 DE NOVEMBRO DE 2019 Dispõe sobre a criação do "Cartão Qualificação", destinado a isentar da tarifa de transporte coletivo os alunos participantes dos cursos profissionalizantes disponibilizados pela Prefeitura do Município de Araucária, através da Secretaria Municipal de Trabalho e Emprego, conforme especifica.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
