@@ -1,0 +1,1 @@
+# LEI Nº 3.551, DE 22 DE NOVEMBRO DE 2019 Acrescenta o artigo 251-A e parágrafo único na Lei Municipal nº 2.159, de 19 de janeiro de 2010, que dispõe sobre o Código de Obras e Posturas do Município de Araucária, e dá outras providências.
