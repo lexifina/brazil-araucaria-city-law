@@ -1,0 +1,2 @@
+# LEI N° 3.572 DE 16 DE DEZEMBRO DE 2019 Autoriza o Poder Executivo a abrir crédito adicional especial no orçamento do Município, com base em superávit financeiro, no valor de R$ 1.193.842,87 (um milhão, cento e noventa e três mil, oitocentos e quarenta e dois reais e oitenta e sete centavos), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
