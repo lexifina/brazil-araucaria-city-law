@@ -1,0 +1,1 @@
+# LEI Nº 3.592, DE 05 DE MARÇO DE 2020 Acrescenta o artigo 250-A e seus incisos na Lei Municipal nº 2.159 de 2010, que dispõe sobre o Código de Obras e Posturas do Município de Araucária, e dá outras providências.
