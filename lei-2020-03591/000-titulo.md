@@ -1,0 +1,1 @@
+# LEI Nº 3.591, DE 05 DE MARÇO DE 2020 Dispõe sobre a prevenção e punição do assédio moral no âmbito da Administração Pública Municipal direta e indireta no Município de Araucária e dá outras providências.
