@@ -1,0 +1,1 @@
+# LEI Nº 3.588, DE 05 DE MARÇO DE 2020 Assegura prioridade na tramitação de processo administrativo municipal à pessoa com idade igual ou superior a 60 (sessenta) anos, pessoa com deficiência ou portadora de doença grave, e dá outras providências.
