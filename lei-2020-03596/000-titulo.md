@@ -1,0 +1,1 @@
+# LEI Nº 3.596, DE 12 DE MARÇO DE 2020 Dispõe sobre a concessão de isenção de Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) aos imóveis atingidos por desastres naturais e dá outras providências.
