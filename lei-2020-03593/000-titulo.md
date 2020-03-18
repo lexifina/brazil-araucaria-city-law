@@ -1,0 +1,1 @@
+# LEI Nº 3.593, DE 10 DE MARÇO DE 2020 Dispõe sobre os deveres dos estabelecimentos de saúde em relação aos seus pacientes, no âmbito do Município de Araucária, bem como torna obrigatória sua divulgação, e dá outras providências.
