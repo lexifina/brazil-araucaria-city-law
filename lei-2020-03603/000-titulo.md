@@ -1,0 +1,2 @@
+# LEI N° 3.603 DE 17 DE ABRIL DE 2020 Dispõe sobre a obrigatoriedade da divulgação, no site oficial da Prefeitura Municipal de Araucária, a situação atual das obras públicas em andamento ou que, por algum motivo, encontram-se paralisadas, os motivos da paralisação, o período de interrupção e a nova data prevista para o término, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
