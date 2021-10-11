@@ -1,0 +1,1 @@
+# LEI Nº 3.751, DE 04 DE OUTUBRO DE 2021 Dispõe sobre a forma de atuação dos estabelecimentos que especifica durante a Situação de Emergência de Saúde Pública decorrente do novo Coronavírus COVID-19 e dá outras providências.
