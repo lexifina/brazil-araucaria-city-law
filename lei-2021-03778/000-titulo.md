@@ -1,0 +1,1 @@
+# LEI Nº 3.778, DE 28 DE OUTUBRO DE 2021 Dispõe sobre a visita hospitalar virtual, por meio de videochamadas, de familiares a pacientes infectados pelo Novo Coronavírus (Covid-19), internados em enfermarias, apartamentos e Unidades de Terapia Intensiva (UTIs) no Município de Araucária.
