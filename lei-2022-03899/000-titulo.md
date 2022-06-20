@@ -1,0 +1,2 @@
+# LEI N° 3.899, DE 10 DE JUNHO DE 2022 Ratifica a 4ª Alteração e Consolidação do Contrato do Consórcio Metropolitano de Saúde e Assistência Social do Paraná - COMESP e autoriza a permanência do Município de Araucária no agora denominado CONSÓRCIO METROPOLITANO DE SERVIÇOS DO PARANÁ - COMESP e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
