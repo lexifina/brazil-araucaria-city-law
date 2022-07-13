@@ -1,0 +1,2 @@
+# LEI N° 3.922, DE 11 DE JULHO DE 2022 Autoriza o Poder Executivo a abrir crédito adici-onal especial no orçamento do Município, com base em anulação parcial de dotação orçamen-tária, no valor de R$ 59.227,59 (cinquenta e nove mil, duzentos e vinte e sete reais e cin-quenta e nove centavos), na forma em que es-pecifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
