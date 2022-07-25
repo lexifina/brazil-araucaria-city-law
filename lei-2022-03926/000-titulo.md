@@ -1,0 +1,2 @@
+# LEI N° 3.926, DE 19 DE JULHO DE 2022 Concede isenção do pagamento da tarifa de passageiros do Transporte Público Coletivo In-tegrado de Araucária / TRIAR - Araucária aos Agentes Censitários e os Recenseadores con-tratados pelo Instituto Brasileiro de Geografia e Estatística - IBGE para atuarem no Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
