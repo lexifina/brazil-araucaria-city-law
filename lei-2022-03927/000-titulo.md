@@ -1,0 +1,2 @@
+# LEI N° 3.927, DE 20 DE JULHO DE 2022 Altera a redação da Lei nº 3.110, de 01 de ju-nho de 2017, visando estender a isenção inte-gral da Tarifa do Transporte Coletivo de Arau-cária - TRIAR aos Estudantes do Ensino Supe-rior que estudam em Instituições Públicas ou que sejam beneficiários de bolsas de estudo, do PROUNI, do FIES e do SISU, conforme es-pecífica.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
