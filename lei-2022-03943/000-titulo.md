@@ -1,0 +1,2 @@
+# LEI N° 3.943, DE 11 DE AGOSTO DE 2022 Autoriza o Poder Executivo a abrir crédito adici-onal especial no orçamento do Município, com base em anulação total de dotação orçamentá-ria, no valor de R$ 48.382,82 (quarenta e oito mil, trezentos e oitenta e dois reais e oitenta e dois centavos), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
