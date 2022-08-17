@@ -1,0 +1,2 @@
+# LEI N° 3.947, DE 17 DE AGOSTO DE 2022 Altera a redação da Lei nº 3508, de 29 de agosto de 2019 que dispõe sobre os critérios de escolha mediante Consulta Pública à Comunidade Escolar para designação de Diretores e Diretores Auxiliares das Unidades Educacionais da Rede Pública Muni-cipal de Ensino.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
