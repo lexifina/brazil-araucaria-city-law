@@ -1,0 +1,1 @@
+# LEI N° 3.973, DE 08 DE SETEMBRO DE 2022 Declara de utilidade pública a Associação Amigas do Bairro Campina da Barra A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
