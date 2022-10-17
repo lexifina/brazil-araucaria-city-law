@@ -1,0 +1,2 @@
+# LEI N° 4.012, DE 13 DE OUTUBRO DE 2022 Altera a redação da Lei nº 1.292, de 26 de de-zembro de 2001, que institui o Fundo Especial do Meio Ambiente - FEMA e altera a redação da Lei nº 2.277, de 07 de outubro de 2010 que institui a Política Municipal de Meio Ambiente, cria o Siste-ma Municipal de Meio Ambiente - SISMUMA e atualiza o Conselho Municipal de Defesa do Meio Ambiente - COMDEMA.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
