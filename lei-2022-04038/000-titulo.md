@@ -1,0 +1,2 @@
+# LEI N° 4.038, DE 16 DE NOVEMBRO DE 2022 Dispõe sobre a obrigatoriedade da afixação de cartazes informativos acerca do rol de direitos do cidadão portador de neoplasia maligna (câncer) em todos os estabelecimentos hospitalares da rede pública e privada, bem como em órgãos pú-blicos no município de Araucária e dá outras pro-vidências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
