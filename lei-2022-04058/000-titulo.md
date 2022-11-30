@@ -1,0 +1,2 @@
+# LEI N° 4.058, DE 29 DE NOVEMBRO DE 2022 Autoriza o Poder Executivo a abrir crédito adicional especial no orçamento do Municí-pio, com base em anulação parcial de dota-ção orçamentária, no valor de R$ 44.409,35 (quarenta e quatro mil, quatrocentos e nove reais e trinta e cinco centavos), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
