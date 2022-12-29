@@ -1,0 +1,2 @@
+# LEI N° 4.078, DE 26 DE DEZEMBRO DE 2022 Altera a redação da Lei nº 3.926, de 19 de julho de 2022 prorrogando a concessão de isenção do pagamento da tarifa de passageiros do Transpor-te Público Coletivo Integrado de Araucária / TRI-AR - Araucária aos Agentes Censitários e os Re-censeadores contratados pelo Instituto Brasileiro de Geografia e Estatística - IBGE para atuarem no Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
