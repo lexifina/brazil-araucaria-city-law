@@ -1,0 +1,2 @@
+# LEI N° 4.127, DE 03 DE ABRIL DE 2023 Autoriza o Poder Executivo a abrir crédito adici-onal especial no orçamento do Município, com base em anulação parcial de dotação orçamen-tária, no valor de R$ 11.568.000,00 (onze mi-lhões, quinhentos e sessenta e oito mil reais), na forma em que especifica abaixo.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
