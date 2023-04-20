@@ -1,0 +1,2 @@
+# LEI N° 4.134, DE 14 DE ABRIL DE 2023 Dispõe sobre a obrigatoriedade de disponibilização de acesso gratuito à rede de comunicação de dados via internet sem fio (Wi-Fi) aos consumidores que desejarem efetuar pagamento via PIX, por parte das empresas do ramo de comércio e de serviços estabelecidas no Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
