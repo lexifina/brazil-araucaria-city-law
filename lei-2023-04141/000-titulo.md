@@ -1,0 +1,2 @@
+# LEI N° 4.141, DE 25 DE ABRIL DE 2023 Altera a redação da Lei nº 3.582, de 31 de janeiro de 2020, que cria o Programa Residência Cidadã em cumprimento a acordo realizado na Ação Civil Pública nº 0001626-12.2010.8.16.0025, para fornecimento de casas populares para famílias com crianças em situação de vulnerabilidade social.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
