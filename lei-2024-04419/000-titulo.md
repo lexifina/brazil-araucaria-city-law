@@ -1,0 +1,2 @@
+# LEI N° 4.419, DE 10 DE MAIO DE 2024.
+Dispõe acerca da divulgação nas guias individuais emitidas pelo município no carnê do imposto predial e territorial urbano - IPTU, informações sobre denúncia de violência doméstica e familiar contra mulheres, crianças e adolescentes, idosos e pessoas com deficiência A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
