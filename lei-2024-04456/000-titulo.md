@@ -1,0 +1,1 @@
+# LEI Nº 4.456, DE 10 DE JULHO DE 2024 Institui realização do ecocardiograma fetal durante o pré-natal para detecção precoce de anomalias cardíacas congênitas, visando a proteção da saúde materna e fetal.
