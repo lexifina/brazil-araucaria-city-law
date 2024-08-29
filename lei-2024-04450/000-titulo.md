@@ -1,0 +1,1 @@
+# LEI Nº 4.450, DE 26 DE JUNHO DE 2024 Dispõe sobre a instalação de sistema de câmeras de monitoramento em estabelecimentos prestadores de serviços de banho e tosa em animais domésticos no município de Araucária e dá outras providências.
