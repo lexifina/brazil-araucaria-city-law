@@ -1,0 +1,2 @@
+# LEI Nº 4.546, DE 22 DE MAIO DE 2025 Dispõe sobre a entrada gratuita para acompanhantes de pessoas com deficiência em locais destinados a diversão, espetáculos teatrais e musicais, exibições cinematográficas, atrações ou eventos esportivos e artísticos em geral, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o Art. 29, inciso IV e ao Art. 45, §3º da Lei Orgânica do Município de Araucária.
