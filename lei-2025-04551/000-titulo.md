@@ -1,0 +1,2 @@
+# LEI Nº 4.551, DE 27 DE MAIO DE 2025 Dispõe sobre a obrigatoriedade de utilização de mangueira transparente nos Postos de Abastecimento de Combustíveis situados no Município de Araucária, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
