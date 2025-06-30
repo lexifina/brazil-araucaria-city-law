@@ -1,0 +1,2 @@
+# LEI Nº 4.554, DE 4 DE JUNHO DE 2025 Autoriza o Poder Executivo a conceder isenção do Imposto Predial e Territorial Urbano - IPTU para a pessoa idosa com idade igual ou superior a sessenta anos no Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
