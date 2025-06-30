@@ -1,0 +1,2 @@
+# LEI Nº 4.555, DE 4 DE JUNHO DE 2025 Autoriza o Poder Executivo a conceder isenção da Taxa de Contribuição de Iluminação Pública - CIP às pessoas em situação de vulnerabilidade social no Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
