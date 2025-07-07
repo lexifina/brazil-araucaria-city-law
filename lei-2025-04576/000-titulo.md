@@ -1,0 +1,2 @@
+# LEI Nº 4.576, DE 24 DE JUNHO DE 2025 Institui o programa "IPTU Sustentável" no Município de Araucária, que dispõe sobre o fornecimento de desconto no IPTU dos imóveis cujos contribuintes adotarem práticas sustentáveis.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
