@@ -1,0 +1,2 @@
+# LEI Nº 4.571, DE 17 DE JUNHO DE 2025 Dispõe sobre a criação de medidas para a inclusão e acolhimento de pessoas com Transtorno do Espectro Autista - TEA em ambientes hospitalares do Município de Araucária, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
