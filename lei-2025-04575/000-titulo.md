@@ -1,0 +1,2 @@
+# LEI Nº 4.575, DE 24 DE JUNHO DE 2025 Dispõe sobre a implantação da Muralha Digital de Segurança no Município de Araucária, bem como sobre a autorização para a interligação com sistemas de videomonitoramento de cidades vizinhas.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
