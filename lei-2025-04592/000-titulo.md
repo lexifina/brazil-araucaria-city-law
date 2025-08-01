@@ -1,0 +1,2 @@
+# LEI Nº 4.592, DE 15 DE JULHO DE 2025 Acrescenta dispositivo à Lei Ordinária nº 3.398, de 2018, que dispõe sobre as diretrizes de atendimento preferencial à inclusão do símbolo mundial do Transtorno do Espectro Autista - TEA nas placas de atendimento preferencial e cria a carteira de identificação para autistas.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
