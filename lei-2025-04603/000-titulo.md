@@ -1,0 +1,2 @@
+# LEI Nº 4.603, DE 5 DE AGOSTO DE 2025 Dispõe sobre a criação de espaços públicos de estacionamento, repouso e descanso para motoboys e ciclistas que realizam entregas por aplicativo no Município de Araucária, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
