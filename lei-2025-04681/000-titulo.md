@@ -1,0 +1,2 @@
+# LEI Nº 4.681, DE 17 DE DEZEMBRO DE 2025 Dispõe sobre a obrigatoriedade da instalação de defletores em postes de iluminação pública na área rural do Município de Araucária, e dá outras providências.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o art. 29, inciso IV, e ao art. 45, §3º, da Lei Orgânica do Município de Araucária.
