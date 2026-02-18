@@ -1,0 +1,2 @@
+# LEI Nº 4.697, DE 10 DE FEVEREIRO DE 2026 Fica instituída a "Cartilha Azul", com informativos para todos os pais e responsáveis de alunos com Transtorno do Espectro Autista - TEA devidamente nascidos em Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
