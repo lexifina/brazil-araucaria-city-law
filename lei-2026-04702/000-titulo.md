@@ -1,0 +1,2 @@
+# LEI Nº 4.702, DE 10 DE MARÇO DE 2026 Fica instituída, no Município de Araucária, a política de oferta, implantação e distribuição gratuita do chip contraceptivo subdérmico, observados os critérios de prioridade estabelecidos nesta Lei.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
