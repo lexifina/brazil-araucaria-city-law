@@ -1,0 +1,2 @@
+# LEI Nº 4.730, DE 20 DE MAIO DE 2026 Institui o Projeto "Prevenir Araucária", que estabelece ações educativas, palestras, atividades de conscientização e programas de prevenção ao uso de drogas, com participação de profissionais parceiros e o testemunho de ex-dependentes químicos habilitados, no âmbito do Município de Araucária.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
