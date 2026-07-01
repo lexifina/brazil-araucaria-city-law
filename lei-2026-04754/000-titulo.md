@@ -1,0 +1,2 @@
+# LEI Nº 4.754, DE 23 DE JUNHO DE 2026 Modifica a Lei Municipal nº 1.752, de 10 de agosto de 2007, que declara Feriado Municipal o dia 30 de outubro, Dia da Padroeira da Cidade, Nossa Senhora dos Remédios, conforme especifica.
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Lei, em conformidade com o artigo 29, inciso IV, da Lei Orgânica do Município de Araucária.
