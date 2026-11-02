@@ -1,0 +1,257 @@
+{
+ "country": "BR-PR-ARAUCARIA",
+ "acts": [
+  {
+   "slug": "lei-2026-04754",
+   "short": "Lei 4754/2026",
+   "title": "Lei nº 4.754, de 23 de junho de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2237",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2237/lei_4.754-2026.pdf",
+     "sha256": "d980b937bce0594fb7c0d97d79c2fe44904a103e81a73514d4b8c9024807f6de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04742",
+   "short": "Lei 4742/2026",
+   "title": "Lei nº 4.742, de 9 de junho de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2224",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 9,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2224/lei_4.742-2026.pdf",
+     "sha256": "a88d2f80801de052011fa3a039cc618b55b53d810395d603eae12aaac0fc5b0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04740",
+   "short": "Lei 4740/2026",
+   "title": "Lei nº 4.740, de 2 de junho de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2221",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2221/lei_4.740-2026.pdf",
+     "sha256": "978152e456c1c57f4586e0409dd56b1cf0e9741ce49eaf26cfd3e8c9347ebb95"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04730",
+   "short": "Lei 4730/2026",
+   "title": "Lei nº 4.730, de 20 de maio de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2211",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 15,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2211/lei_4.730-2026.pdf",
+     "sha256": "8f71210187f1a57e651351ce3e453d738e638bb59f7611da02c7c408f338206a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04709",
+   "short": "Lei 4709/2026",
+   "title": "Lei nº 4.709, de 18 de março de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2184",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2184/lei_4.709-2026.pdf",
+     "sha256": "031ecce4f7030d216b686f38c57d42c4ee9d8ba514ef3063783a44ec08439d14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04702",
+   "short": "Lei 4702/2026",
+   "title": "Lei nº 4.702, de 10 de março de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2181",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2181/lei_4.702-2026.pdf",
+     "sha256": "29f403bac23f9ca2b3daca3b2b10313a75196be3af51cd2807bf5fd30b168899"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04697",
+   "short": "Lei 4697/2026",
+   "title": "Lei nº 4.697, de 10 de fevereiro de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2169",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2169/lei_4.697-2026.pdf",
+     "sha256": "5094f6d4f3aa21200fdf542e83d32e180ecfe5cdd2ca71c58744eb2a74507070"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04696",
+   "short": "Lei 4696/2026",
+   "title": "Lei nº 4.696, de 5 de fevereiro de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2170",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2170/lei_4.696-2026.pdf",
+     "sha256": "f8bd8ca3fb42fa561cb8aada14ee5b6b08547723334d5c09aadd0eabd071beb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04695",
+   "short": "Lei 4695/2026",
+   "title": "Lei nº 4.695, de 5 de fevereiro de 2026",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2171",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 16,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2026/2171/lei_4.695-2026.pdf",
+     "sha256": "e1e3e95c39b067f6aed961932c68093791346a344ca5d456a52847303f51777d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04681",
+   "short": "Lei 4681/2025",
+   "title": "Lei nº 4.681, de 17 de dezembro de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2166",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2166/lei_4.681-2025.pdf",
+     "sha256": "c87d057aeff4942b0c91d68111e2eeec16d536e8c083ed9f2d9f1af5ede1a011"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04638",
+   "short": "Lei 4638/2025",
+   "title": "Lei nº 4.638, de 30 de setembro de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2108",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2108/lei_4.638-2025.pdf",
+     "sha256": "1df3bab659734df730d00ddbf25548135f2d745f04955644bb89d21e55fe940c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04625",
+   "short": "Lei 4625/2025",
+   "title": "Lei nº 4.625, de 16 de setembro de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2093",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2093/lei_4.625-2025.pdf",
+     "sha256": "4404893cf81283b54779a01390855a1fc6e24028e5a039d7f0b7e0c9dccb0ec5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04623",
+   "short": "Lei 4623/2025",
+   "title": "Lei nº 4.623, de 16 de setembro de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2091",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 23,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2091/lei_4.623-2025.pdf",
+     "sha256": "c8738321e78c6fac1d55f46f4ef31fcf684efc72d874fd6c8c9d8c2f0e9a523c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04608",
+   "short": "Lei 4608/2025",
+   "title": "Lei nº 4.608, de 20 de agosto de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2095",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2095/lei_4.608-2025.pdf",
+     "sha256": "2d97f90726aee9702058e679da9960fb9888094ab68aee24eaa4c2e760bc0b89"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04607",
+   "short": "Lei 4607/2025",
+   "title": "Lei nº 4.607, de 13 de agosto de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2078",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2078/lei_4.607-2025.pdf",
+     "sha256": "ca25e4518525a6983a7a1c3f3a58c8169835c6b741291d11686097817ccf984e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04606",
+   "short": "Lei 4606/2025",
+   "title": "Lei nº 4.606, de 13 de agosto de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2077",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2077/lei_4.606-2025.pdf",
+     "sha256": "bf1e0fe1d4a57733374e3a7f6bcba45ff9ec66f6a35ea860b07ee66cf324d96b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04605",
+   "short": "Lei 4605/2025",
+   "title": "Lei nº 4.605, de 13 de agosto de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2076",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2076/lei_4.605-2025.pdf",
+     "sha256": "cb7e214f6459471ac4776c2ed39135376959209e13189915b0494d37500395e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04603",
+   "short": "Lei 4603/2025",
+   "title": "Lei nº 4.603, de 5 de agosto de 2025",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/2070",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2025/2070/lei_4.603-2025.pdf",
+     "sha256": "803a8ba6277bf13e24824aed344904695ff74f154d643130965ee1444868ee86"
+    }
+   ]
+  }
+ ]
+}

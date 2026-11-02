@@ -1,0 +1,9 @@
+{
+  "path": "br-pr-araucaria",
+  "code": "BR-PR-ARAUCARIA",
+  "name": "Araucária (city)",
+  "level": "municipality",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-araucaria-city-law",
+  "build": "built: the law of Araucária from the Câmara Municipal's SAPL"
+}
