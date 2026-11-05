@@ -2408,6 +2408,454 @@
      "sha256": "9121035596c89940962f57e7a0aabf3952bd2b9cf5c737219710dcdcb1540273"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-04344",
+   "short": "Lei 4344/2024",
+   "title": "Lei nº 4.344, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1794",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1794/4.344-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "2744db8ac958dabeae0d0ea66a30c70eed9727930f8db055d4d9a2034c66aa76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04343",
+   "short": "Lei 4343/2024",
+   "title": "Lei nº 4.343, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1793",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1793/4.343-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "2d36e384343833f20edcffbd66d3977b8e2f0ca2989aaf4980d8e129d911727f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04342",
+   "short": "Lei 4342/2024",
+   "title": "Lei nº 4.342, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1792",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1792/4.342-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "d71117a4bbce92d1b839a0f3817bf3572f515aa83715fc7673b26b6de009ac41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04341",
+   "short": "Lei 4341/2024",
+   "title": "Lei nº 4.341, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1791",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1791/4.341-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "83b58b95a047d05c2c32271d357e6312281221c1bc0bea66b55035506e17510f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04340",
+   "short": "Lei 4340/2024",
+   "title": "Lei nº 4.340, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1790",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1790/4.340-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "a0d413588ccc24f95073ca793d6a1236b1f4dccf5cb03d1ece79fdd228eee3b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04339",
+   "short": "Lei 4339/2024",
+   "title": "Lei nº 4.339, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1789",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1789/4.339-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "07f770e44cb7c2462c28fa02cc0e3bc98b119d9d3642a8aa6bab56d6be58eff3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04338",
+   "short": "Lei 4338/2024",
+   "title": "Lei nº 4.338, de 2 de janeiro de 2024",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1788",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2024/1788/4.338-2024_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "fdb6f300a46e8018a845e9d2e926a2c3e7baa3cd10aaf407acd6ada1a73e5197"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04336",
+   "short": "Lei 4336/2023",
+   "title": "Lei nº 4.336, de 22 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1786",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1786/4.336-2023_-_materia_publicada_no_dia_04_01_2024._edicao_1478_2023.pdf",
+     "sha256": "2ef619f122ac8d4d2dbfbdff7d9640fdc9c770fea77d323ec8a18f4a798ef962"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04335",
+   "short": "Lei 4335/2023",
+   "title": "Lei nº 4.335, de 22 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1803",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1803/4.335-2023_-_materia_publicada_no_dia_10_01_2024._edicao_1482_2023.pdf",
+     "sha256": "438b0c51215ba5ef8c79279fd9a3538a94ca333b620691bffd3322128649e707"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04334",
+   "short": "Lei 4334/2023",
+   "title": "Lei nº 4.334, de 22 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1785",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1785/4.334-2023_-_materia_publicada_no_dia_03_01_2024._edicao_1477_2023.pdf",
+     "sha256": "e8f9f196cbf089f41b06ad4b6234d550a7cc415c33f431c4c4d5069edfd679b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04333",
+   "short": "Lei 4333/2023",
+   "title": "Lei nº 4.333, de 22 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1784",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1784/4.333-2023_-_materia_publicada_no_dia_03_01_2024._edicao_1477_2023.pdf",
+     "sha256": "f669e0240fdfa2acc3c7a01d19b2e2b972c5c57b8e098cf1329cfcfc159b4aba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04332",
+   "short": "Lei 4332/2023",
+   "title": "Lei nº 4.332, de 21 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1783",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1783/4.332-2023_-_materia_publicada_no_dia_02_01_2024._edicao_1476_2023.pdf",
+     "sha256": "40def728ddda32c7fd4b90f80402dedcc0b77620d5db6177e5a0658d6754a255"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04331",
+   "short": "Lei 4331/2023",
+   "title": "Lei nº 4.331, de 21 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1782",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1782/4.331-2023_-_materia_publicada_no_dia_03_01_2024._edicao_1477_2023.pdf",
+     "sha256": "a6e42bab312c96c014d29b9656a06ed7dfc92d1b47fa5c767ac9e17602168e70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04330",
+   "short": "Lei 4330/2023",
+   "title": "Lei nº 4.330, de 21 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1777",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1777/4.330-2023_-_materia_publicada_no_dia_21_12_2023._edicao_1474_2023.pdf",
+     "sha256": "a53f2a203d329c8320ddb216645e8757018f398e493bcb9938959c1b9a6d56e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04324",
+   "short": "Lei 4324/2023",
+   "title": "Lei nº 4.324, de 20 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1781",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1781/4.324-2023_-_materia_publicada_no_dia_22_12_2023._edicao_1475_2023.pdf",
+     "sha256": "757cc82760c2832d08fd0609788da240bc862b0ebeface9e0012acdf55e8d8ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04322",
+   "short": "Lei 4322/2023",
+   "title": "Lei nº 4.322, de 20 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1774",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1774/4.322-2023_-_materia_publicada_no_dia_21_12_2023._edicao_1474_2023.pdf",
+     "sha256": "edfed31016bfb2f6d55e8ee3d8da1500e3263a17b039a3f134d3fe10bf2466b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04321",
+   "short": "Lei 4321/2023",
+   "title": "Lei nº 4.321, de 20 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1780",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1780/4.321-2023_-_materia_publicada_no_dia_22_12_2023._edicao_1475_2023.pdf",
+     "sha256": "9f824c779859cbe495419491568419e0ce3800d17b21d6f428cfccfb42c820fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04320",
+   "short": "Lei 4320/2023",
+   "title": "Lei nº 4.320, de 20 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1773",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 17,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1773/4.320-2023_-_materia_publicada_no_dia_21_12_2023._edicao_1474_2023.pdf",
+     "sha256": "bfc6f8f1e827cec555650407d0e72a1ce319902ce76656fcfd51070fc52e3aeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04319",
+   "short": "Lei 4319/2023",
+   "title": "Lei nº 4.319, de 20 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1779",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1779/4.319-2023_-_materia_publicada_no_dia_22_12_2023._edicao_1475_2023.pdf",
+     "sha256": "d5311eed61ea9b02495bace8ad4d466edc2c779808fb005807b9ac3440055573"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04315",
+   "short": "Lei 4315/2023",
+   "title": "Lei nº 4.315, de 19 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1766",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1766/4.315-2023_-materia_publicada_no_dia_20_12_2023._edicao_1473_2023.pdf",
+     "sha256": "b49e63dae3e4b2bb90dcb8733e53d03fe549a0ad1ac83a8fbd7ee4e984bcd947"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04313",
+   "short": "Lei 4313/2023",
+   "title": "Lei nº 4.313, de 14 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1765",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1765/4.313-2023_-_materia_publicada_no_dia_19_12_2023._edicao_1472_2023.pdf",
+     "sha256": "e30e754c236d22ace3d656f340a606c67728f83fbff433296b83617417ce5bbd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04312",
+   "short": "Lei 4312/2023",
+   "title": "Lei nº 4.312, de 14 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1764",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1764/4.312-2023_-_materia_publicada_no_dia_19_12_2023._edicao_1472_2023.pdf",
+     "sha256": "763877c6dbdc4910f49817af2200083c23108379bf77ea5e7fb3830956bbc120"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04311",
+   "short": "Lei 4311/2023",
+   "title": "Lei nº 4.311, de 14 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1763",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1763/4.311-2023_-_materia_publicada_no_dia_19_12_2023._edicao_1472_2023.pdf",
+     "sha256": "ff0ff189f95ad938266b80842938dce7756b04d5713fb2c54c74fdb010aedf7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04309",
+   "short": "Lei 4309/2023",
+   "title": "Lei nº 4.309, de 7 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1761",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1761/4.309-2023_-_materia_publicada_no_dia_11_12_2023._edicao_1466_2023.pdf",
+     "sha256": "738b93aa945cec5f5e6f55696dad77c645993d605a797e0d28aab5410d75b651"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04306",
+   "short": "Lei 4306/2023",
+   "title": "Lei nº 4.306, de 6 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1758",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1758/4.306-2023_-_materia_publicada_no_dia_11_12_2023._edicao_1466_2023.pdf",
+     "sha256": "e5dcc7cfd738bdb288f8701ce4bbe237b1ecb2448865acc4c8aa4ccaffcd9e76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04305",
+   "short": "Lei 4305/2023",
+   "title": "Lei nº 4.305, de 6 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1757",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1757/4.305-2023_-_materia_publicada_no_dia_11_12_2023._edicao_1466_2023.pdf",
+     "sha256": "afab9a84e909a6359add30262887acb547bd93f1089e861bbe8cc5e479cf2848"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04304",
+   "short": "Lei 4304/2023",
+   "title": "Lei nº 4.304, de 6 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1756",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1756/4.304-2023_-_materia_publicada_no_dia_08_12_2023._edicao_1465_2023.pdf",
+     "sha256": "53bef04d3b2f2e8087237fa13ab0a8dc1956b568b5ff456a22156a8050b5a44f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04303",
+   "short": "Lei 4303/2023",
+   "title": "Lei nº 4.303, de 6 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1769",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1769/4.303-2023_-_materia_publicada_no_dia_08_12_2023._edicao_1465_2023.pdf",
+     "sha256": "b554783312200c38da34cf0abaf2394f211668c5d37c66aabc22e18e99f87681"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04302",
+   "short": "Lei 4302/2023",
+   "title": "Lei nº 4.302, de 6 de dezembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1755",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1755/4.302-2023_-_materia_publicada_no_dia_08_12_2023._edicao_1465_2023.pdf",
+     "sha256": "97269aca3cc9bbd6923d129fea0b236db75a5181ae60f22992af8529dbb64d88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04300",
+   "short": "Lei 4300/2023",
+   "title": "Lei nº 4.300, de 20 de novembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1746",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1746/4.300-2023_-_materia_publicada_no_dia_24_11_2023_edicao_1455_2023.pdf",
+     "sha256": "be6481e13ca84ec9ed7c85b3ce82ca7292e146c9cf26ccf226d3897cf5e89448"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04299",
+   "short": "Lei 4299/2023",
+   "title": "Lei nº 4.299, de 20 de novembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1745",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1745/4.299-2023_-_materia_publicada_no_dia_24_11_2023_edicao_1455_2023.pdf",
+     "sha256": "65c84bf77e332ebb5c620f2540bf85b0821d21f5071e19ffcca4271977a6f182"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04296",
+   "short": "Lei 4296/2023",
+   "title": "Lei nº 4.296, de 10 de novembro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1742",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 12,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1742/4.296-2023_-_materia_publicada_no_dia_13_11_2023._edicao_1447_2023.pdf",
+     "sha256": "fb708a46ed03e545ce1cc7e17ef81fa83896320b5c84c531d167c162c9093afb"
+    }
+   ]
   }
  ]
 }
