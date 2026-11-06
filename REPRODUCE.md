@@ -1,6 +1,6 @@
 # How this repository was made (Araucária)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
@@ -16,6 +16,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -227,20 +228,42 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2023-04300` | Lei nº 4.300, de 20 de novembro de 2023 | 1 | 2023-11-24 to 2023-11-24 |
 | `lei-2023-04299` | Lei nº 4.299, de 20 de novembro de 2023 | 1 | 2023-11-24 to 2023-11-24 |
 | `lei-2023-04296` | Lei nº 4.296, de 10 de novembro de 2023 | 1 | 2023-11-13 to 2023-11-13 |
+| `lei-2023-04294` | Lei nº 4.294, de 7 de novembro de 2023 | 1 | 2023-11-13 to 2023-11-13 |
+| `lei-2023-04293` | Lei nº 4.293, de 7 de novembro de 2023 | 1 | 2023-11-10 to 2023-11-10 |
+| `lei-2023-04291` | Lei nº 4.291, de 7 de novembro de 2023 | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-04288` | Lei nº 4.288, de 27 de outubro de 2023 | 1 | 2023-11-01 to 2023-11-01 |
+| `lei-2023-04286` | Lei nº 4.286, de 27 de outubro de 2023 | 1 | 2023-11-01 to 2023-11-01 |
+| `lei-2023-04285` | Lei nº 4.285, de 27 de outubro de 2023 | 1 | 2023-11-01 to 2023-11-01 |
+| `lei-2023-04283` | Lei nº 4.283, de 27 de outubro de 2023 | 1 | 2023-11-01 to 2023-11-01 |
+| `lei-2023-04275` | Lei nº 4.275, de 18 de outubro de 2023 | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-2023-04274` | Lei nº 4.274, de 18 de outubro de 2023 | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-2023-04273` | Lei nº 4.273, de 18 de outubro de 2023 | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-2023-04272` | Lei nº 4.272, de 18 de outubro de 2023 | 1 | 2023-10-20 to 2023-10-20 |
+| `lei-2023-04271` | Lei nº 4.271, de 18 de outubro de 2023 | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-04267` | Lei nº 4.267, de 9 de outubro de 2023 | 1 | 2023-10-10 to 2023-10-10 |
+| `lei-2023-04266` | Lei nº 4.266, de 6 de outubro de 2023 | 1 | 2023-10-10 to 2023-10-10 |
+| `lei-2023-04264` | Lei nº 4.264, de 3 de outubro de 2023 | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-04263` | Lei nº 4.263, de 3 de outubro de 2023 | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-04262` | Lei nº 4.262, de 3 de outubro de 2023 | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-04261` | Lei nº 4.261, de 2 de outubro de 2023 | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-04260` | Lei nº 4.260, de 2 de outubro de 2023 | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-04259` | Lei nº 4.259, de 2 de outubro de 2023 | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-04258` | Lei nº 4.258, de 2 de outubro de 2023 | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-04257` | Lei nº 4.257, de 2 de outubro de 2023 | 1 | 2023-10-04 to 2023-10-04 |
 
-The build made 204 commits:
+The build made 226 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 204 | first version of an act |
+| 226 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 204 laws in the record.
-- 408 tags.
+- 226 laws in the record.
+- 452 tags.
 
 ## Dates
 
@@ -252,7 +275,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5af2b86d4ce74504ebb366ac93f4e5234cb61ff16f4cfd36beb18e411819cc57` (846306 bytes).
+- Corpus: sha256 `16273126d68011b2590bd5dd59b09f67dbb344c7b5c61fc74f11775bb57b34ef` (943554 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -294,6 +317,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -304,6 +330,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
