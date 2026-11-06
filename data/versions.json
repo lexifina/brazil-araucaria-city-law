@@ -5908,6 +5908,160 @@
      "sha256": "04f84503717c1003b1055c9b1c68516e6b17f033670b79160cdc64cfe9b091a8"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03824",
+   "short": "Lei 3824/2022",
+   "title": "Lei nº 3.824, de 5 de janeiro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1233",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1233/lei_n_3.824-2022.pdf",
+     "sha256": "98249dfb94bb667ba78b5169a8866bbfccdd2e39116de19e195426cf041a0a70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03823",
+   "short": "Lei 3823/2022",
+   "title": "Lei nº 3.823, de 3 de janeiro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1241",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1241/lei_3.823-2022.pdf",
+     "sha256": "d4118e09b26d407a5bf8093ec4287d8779111656a4f5054868abab5b80b80760"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03821",
+   "short": "Lei 3821/2021",
+   "title": "Lei nº 3.821, de 28 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1235",
+   "versions": [
+    {
+     "from": "2022-01-24",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1235/lei_n_3.821-2021.pdf",
+     "sha256": "9b823f9e231542f05e3d8f97c7fb797fb75ad9c428d88b040d3d6aed579ddfcc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03808",
+   "short": "Lei 3808/2021",
+   "title": "Lei nº 3.808, de 15 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1216",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1216/lei_3.808-2021.pdf",
+     "sha256": "d37c101df1fdee72b0f5eab83fd8d267e550ad76be0717ad49a514edc6d30cec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03805",
+   "short": "Lei 3805/2021",
+   "title": "Lei nº 3.805, de 14 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1224",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1224/lei_3.805-2021.pdf",
+     "sha256": "0736d59b1a0f24acba6d7fb93aa28e8f0ecf37a1a7290e06fa2d5a6918a7513b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03804",
+   "short": "Lei 3804/2021",
+   "title": "Lei nº 3.804, de 14 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1223",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1223/lei_3.804-2021.pdf",
+     "sha256": "9f0be8204dd584746e18eb2d17a0aa6c58326d2d2cff56db0cd372f888697123"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03801",
+   "short": "Lei 3801/2021",
+   "title": "Lei nº 3.801, de 9 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1212",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1212/lei_3.801-2021.pdf",
+     "sha256": "a922769804dbf6ea26c9f73dc9e85b04e719b7ebd05b8e9d9cb4340dba5816da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03795",
+   "short": "Lei 3795/2021",
+   "title": "Lei nº 3.795, de 2 de dezembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1206",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1206/lei_3.795-2021.pdf",
+     "sha256": "2011bb0ee2fdefeeb345f8b63ef2d01a5b2915977be00c5acc0db26bafe70060"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03794",
+   "short": "Lei 3794/2021",
+   "title": "Lei nº 3.794, de 30 de novembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1205",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1205/lei_3.794-2021.pdf",
+     "sha256": "c1b30544d57ca75b0e1f5d5c8e14f7463b17861913f5dc5b5839790dd2139828"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03792",
+   "short": "Lei 3792/2021",
+   "title": "Lei nº 3.792, de 25 de novembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1202",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1202/lei_3.792-2021.pdf",
+     "sha256": "0ed500546d6ec4ffbd2efffa1d543103e03465ea1a4751cb48d186494278fea1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03789",
+   "short": "Lei 3789/2021",
+   "title": "Lei nº 3.789, de 18 de novembro de 2021",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1200",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2021/1200/lei_3.789-2021.pdf",
+     "sha256": "c371293c78e5ebfdc10c26f18cc7830bb1096f7383d9514ba39b6416aff2a1d7"
+    }
+   ]
   }
  ]
 }
