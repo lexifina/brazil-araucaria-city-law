@@ -7322,6 +7322,468 @@
      "sha256": "432803e92e2b1f1ae90d8934841443e4770fc1c59e310ba1c135181218fc4640"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-03641",
+   "short": "Lei 3641/2020",
+   "title": "Lei nº 3.641, de 15 de setembro de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1035",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1035/lei_3.641-2020.pdf",
+     "sha256": "bbf8c4204ff8ed1dcc82757ff7bf3990559407788de9057cb4295fb6c78274fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03640",
+   "short": "Lei 3640/2020",
+   "title": "Lei nº 3.640, de 2 de setembro de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1034",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1034/lei_3.640-2020.pdf",
+     "sha256": "651d92c592cc7359f8afbf77fb5fe66b324468129cd3ae8650151d569232952c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03639",
+   "short": "Lei 3639/2020",
+   "title": "Lei nº 3.639, de 26 de agosto de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1032",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1032/lei_3.639-2020.pdf",
+     "sha256": "ac9a36de0975960f3cb4b48033292447a7f60dad78901f8237dc2ece6456ebe0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03636",
+   "short": "Lei 3636/2020",
+   "title": "Lei nº 3.636, de 26 de agosto de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1039",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1039/lei_3.636-2020.pdf",
+     "sha256": "dec0838797b28944b8493506ab42ef014191d4d11287db3620f9529b8f47cdb6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03634",
+   "short": "Lei 3634/2020",
+   "title": "Lei nº 3.634, de 22 de julho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1027",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1027/lei_3.634-2020.pdf",
+     "sha256": "6881745e2b4635781c0bab2e023ca024572587b24034820bd46dafaf19cbd30e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03633",
+   "short": "Lei 3633/2020",
+   "title": "Lei nº 3.633, de 22 de julho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1024",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1024/lei_3.633-2020.pdf",
+     "sha256": "ab74eeb39d79210f2068b4a8d0c329858b13182ea82a99e418cb2ad030a1c0cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03629",
+   "short": "Lei 3629/2020",
+   "title": "Lei nº 3.629, de 25 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1021",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1021/lei_3.629-2020.pdf",
+     "sha256": "3b0ab4a29ffcac9e98c3c43849802f6943e1256727506edd486722a7b4892682"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03626",
+   "short": "Lei 3626/2020",
+   "title": "Lei nº 3.626, de 17 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1018",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1018/lei_3.626-2020.pdf",
+     "sha256": "dff5bd3fcb63f6018961ea6d4b024ac35cadeb416de8b20a7da4237f1b5c5872"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03623",
+   "short": "Lei 3623/2020",
+   "title": "Lei nº 3.623, de 9 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1015",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1015/lei_3.623-2020.pdf",
+     "sha256": "05b185a53f1c694aa09b907960ca50246338a32e65fe9a6849ea3912702736a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03622",
+   "short": "Lei 3622/2020",
+   "title": "Lei nº 3.622, de 8 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1014",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1014/lei_3.622-2020.pdf",
+     "sha256": "d13a8211a4564e369e9af698f27e45eef78b04f6eecac57016b1fde480bc75b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03621",
+   "short": "Lei 3621/2020",
+   "title": "Lei nº 3.621, de 3 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1013",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1013/lei_3.621-2020.pdf",
+     "sha256": "c44e6213e96a059b80f3d5d7908c7ad011dac45e6dd66018e04cde98c54cd99d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03619",
+   "short": "Lei 3619/2020",
+   "title": "Lei nº 3.619, de 2 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/986",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/986/lei_3.619-2020.pdf",
+     "sha256": "b98af7a8b273f2d8b1e9b15611f556e27a1cb46828166b6f42323e329a7b2e47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03618",
+   "short": "Lei 3618/2020",
+   "title": "Lei nº 3.618, de 2 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/987",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/987/lei_3.618-2020.pdf",
+     "sha256": "c8b83ee686657c59aa31f3816b8b84a15e280f596feacf406a8696e49811e7df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03617",
+   "short": "Lei 3617/2020",
+   "title": "Lei nº 3.617, de 1 de junho de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/988",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/988/lei_3.617-2020.pdf",
+     "sha256": "60ff8276c1f84c84def8f1020dd3fded657f52d828a6137841615389b478adfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03615",
+   "short": "Lei 3615/2020",
+   "title": "Lei nº 3.615, de 26 de maio de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/990",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/990/lei_3.615-2020.pdf",
+     "sha256": "ee05f860bb11bba3a8d13d561157b6bd727fba2e678fe238741e861e588be4ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03614",
+   "short": "Lei 3614/2020",
+   "title": "Lei nº 3.614, de 26 de maio de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/989",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/989/lei_3.614-2020.pdf",
+     "sha256": "8c9e0904fb8af3b2a5f3acc53daf5d2e0dea1252af0d73f2d21c916eac4ebb47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03611",
+   "short": "Lei 3611/2020",
+   "title": "Lei nº 3.611, de 6 de maio de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/985",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/985/lei_3.611-2020.pdf",
+     "sha256": "f28e62c8d941134484b82b95816b2986e2b31be9197aca875414bbb4986deb8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03610",
+   "short": "Lei 3610/2020",
+   "title": "Lei nº 3.610, de 29 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/976",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/976/lei_3.610-2020.pdf",
+     "sha256": "03468041a8b97b5ab305888abb7bda91d07e9ef002857b2e702a7a5b36d88613"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03609",
+   "short": "Lei 3609/2020",
+   "title": "Lei nº 3.609, de 28 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/991",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/991/lei_3.609-2020.pdf",
+     "sha256": "f7f9b5a7304bc0665992e7c383e7b278f73120f37440092c0d776d24b2bc9d29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03608",
+   "short": "Lei 3608/2020",
+   "title": "Lei nº 3.608, de 28 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/992",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/992/lei_3.608-2020.pdf",
+     "sha256": "d4f7785aa713c16c8417e0678c7a6da96e9a4490a0a2271aab0d4efed36fbd39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03606",
+   "short": "Lei 3606/2020",
+   "title": "Lei nº 3.606, de 22 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/993",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/993/lei_3.606-2020.pdf",
+     "sha256": "d54a5f34fc90336901c55576eb188cdf9c2d8f1a215926083d64ccf10944925e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03605",
+   "short": "Lei 3605/2020",
+   "title": "Lei nº 3.605, de 17 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/994",
+   "versions": [
+    {
+     "from": "2020-04-23",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/994/lei_3.605-2020.pdf",
+     "sha256": "c7c4d97aa5dca0614b4851582359342483423f41317428b77c372c888f3fc4d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03603",
+   "short": "Lei 3603/2020",
+   "title": "Lei nº 3.603, de 17 de abril de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/998",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/998/lei_3.603-2020.pdf",
+     "sha256": "19657f7cadacd1b80f2920023f1c873e065158a2dbb22949fcdca6bcba8cfd4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03600",
+   "short": "Lei 3600/2020",
+   "title": "Lei nº 3.600, de 30 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/975",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 13,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/975/lei_3.600-2020.pdf",
+     "sha256": "627a986780c7bd8a5c01f8d557a538eb4b7d51bda4d691d3c71f6b0d7c5c6714"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03598",
+   "short": "Lei 3598/2020",
+   "title": "Lei nº 3.598, de 24 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/970",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/970/lei_3.598-2020.pdf",
+     "sha256": "9397f60775d4ab03e87e7840718b77a38fcffc51cb6166e2abaa99c82bdedb64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03597",
+   "short": "Lei 3597/2020",
+   "title": "Lei nº 3.597, de 19 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/969",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/969/lei_3.597-2020.pdf",
+     "sha256": "daaab60b64c40aa451f9c2a2165c9fdef40ac234b76e030c1566f53e314df1d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03596",
+   "short": "Lei 3596/2020",
+   "title": "Lei nº 3.596, de 12 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/971",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/971/lei_3.596-2020.pdf",
+     "sha256": "5c4fb38274243173ccb96c852ee519f850b12c2eaade74ae09599c4d4138ca5b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03595",
+   "short": "Lei 3595/2020",
+   "title": "Lei nº 3.595, de 12 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/972",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/972/lei_3.595-2020.pdf",
+     "sha256": "b7f59437c833fcbf16c5339fddaf9519ba7c0f55680ef6fc1d9358455d3459eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03594",
+   "short": "Lei 3594/2020",
+   "title": "Lei nº 3.594, de 12 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/973",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/973/lei_3.594-2020.pdf",
+     "sha256": "0ed43958826f4166f4b36af27c45b12a9279ad1c3a28f9a6e58ccdccb2ce52dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03593",
+   "short": "Lei 3593/2020",
+   "title": "Lei nº 3.593, de 10 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/974",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/974/lei_3.593-2020.pdf",
+     "sha256": "63ac2830bd1ee043f2a79de46376ce9e34ee357d6485fc1b51596dcec0882f3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03592",
+   "short": "Lei 3592/2020",
+   "title": "Lei nº 3.592, de 5 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1001",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1001/lei_3.592-2020.pdf",
+     "sha256": "fde03ab5213010f6dcb2e41a7ae54da82291bf0f6fe6e4fec23b3840f3314675"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03591",
+   "short": "Lei 3591/2020",
+   "title": "Lei nº 3.591, de 5 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1002",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 12,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1002/lei_3.591-2020.pdf",
+     "sha256": "aee8eed54ce35692952387904d2e845b6836dbef0517d016d3bd003d288a2399"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03589",
+   "short": "Lei 3589/2020",
+   "title": "Lei nº 3.589, de 5 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1003",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1003/lei_3.589-2020.pdf",
+     "sha256": "9265c8179d1f4eec9b6b753d7d77e5e97e84d3ea08eb46e8e226c86f8d52bbac"
+    }
+   ]
   }
  ]
 }
