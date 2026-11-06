@@ -3710,6 +3710,510 @@
      "sha256": "50b5409209f5a7278b769ec7b7485cbc14703ad306650779756a1081e6725cf6"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-04088",
+   "short": "Lei 4088/2023",
+   "title": "Lei nº 4.088, de 13 de janeiro de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1529",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1529/4.088.2023.pdf",
+     "sha256": "ab4d3dc99784a9b80d39c1924a818de37e08a5f4963d0ed9215bc03fa21fcd6c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04087",
+   "short": "Lei 4087/2022",
+   "title": "Lei nº 4.087, de 29 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1527",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 8,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1527/4.087-2022.pdf",
+     "sha256": "9cae3eeac0eb4a822d52f66fdfb0ad5b8fe4382bf14dfaabb79e522a5836b683"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04086",
+   "short": "Lei 4086/2022",
+   "title": "Lei nº 4.086, de 29 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1526",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1526/4.086-2022.pdf",
+     "sha256": "c959cba0ce186e39cb9e32441f586ebb0dd7874764e7e1d045e2a5175925a2b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04084",
+   "short": "Lei 4084/2022",
+   "title": "Lei nº 4.084, de 28 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1525",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1525/4.084-2022.pdf",
+     "sha256": "43decbffc38d437be3adaf7064bab5e03cc533778d4fbd29bc0f4522ae98a41c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04083",
+   "short": "Lei 4083/2022",
+   "title": "Lei nº 4.083, de 28 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1523",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1523/4.083-2022.pdf",
+     "sha256": "c33e136a527b8e6468431cf0a2aa2c820a3ccf43c51c463e446d523324b640ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04081",
+   "short": "Lei 4081/2022",
+   "title": "Lei nº 4.081, de 26 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1521",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1521/4.081-2022.pdf",
+     "sha256": "cd7365a8dad769e08a7d09cf335c60c5a43fa9872f63e783a51e03617bba2f76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04080",
+   "short": "Lei 4080/2022",
+   "title": "Lei nº 4.080, de 26 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1520",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1520/4.080-2022.pdf",
+     "sha256": "8efa1b45bbfdfc6bb7c4735df80a4462684d1f53a9d8258a65a5bfbb6af226c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04079",
+   "short": "Lei 4079/2022",
+   "title": "Lei nº 4.079, de 26 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1519",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1519/4.079-2022.pdf",
+     "sha256": "c2b404f5c625cbb1969176a83eb76f45ba4227f9170f2853565fbc2f6d1d3f66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04078",
+   "short": "Lei 4078/2022",
+   "title": "Lei nº 4.078, de 26 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1518",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1518/4.078-2022.pdf",
+     "sha256": "7dcae91c545487ecf12a43a7540587f29d10ab8bbd388b3fbd86652b4803f023"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04077",
+   "short": "Lei 4077/2022",
+   "title": "Lei nº 4.077, de 23 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1517",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 9,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1517/4.077-2022.pdf",
+     "sha256": "b26869030d7f505314d048326a1a3ab1961dfdd41660d4672059aee3c5d40564"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04076",
+   "short": "Lei 4076/2022",
+   "title": "Lei nº 4.076, de 23 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1516",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 11,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1516/4.076-2022.pdf",
+     "sha256": "7b2d67e8e63f3cf052bb8d0a700aef868e85210bfaefa0e6403344d13110c6e4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00028",
+   "short": "LC 28/2022",
+   "title": "Lei Complementar nº 28, de 22 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1524",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 28,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1524/lei_complementar_28-2022_-_com_anexos.pdf",
+     "sha256": "46730a7ed0f9958d5d43f6e8ab0d87b48082a8c8b723c426cd534210aa0c7618"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04074",
+   "short": "Lei 4074/2022",
+   "title": "Lei nº 4.074, de 16 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1510",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1510/lei_4.074-2022.pdf",
+     "sha256": "36c209f0aba034a918eb7aa9f248387f65e97c0670aa106c1462d52237f1a06c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04072",
+   "short": "Lei 4072/2022",
+   "title": "Lei nº 4.072, de 16 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1512",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1512/lei_4.072-2022.pdf",
+     "sha256": "85903b6a1180729c86ce08b13f4c164b026830d2284d7c6859f1945a21f7911c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04071",
+   "short": "Lei 4071/2022",
+   "title": "Lei nº 4.071, de 15 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1509",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1509/lei_4.071-2022.pdf",
+     "sha256": "73ce43654ce63af9e68cd407019da291f1fb2d8b1ef560a2336632f611821481"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04067",
+   "short": "Lei 4067/2022",
+   "title": "Lei nº 4.067, de 8 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1505",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1505/lei_4.067-2022.pdf",
+     "sha256": "e0576af2a6c9881bf4008b9199256b924e9fe78309bd8eff0b4f98fdcec6bbca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04066",
+   "short": "Lei 4066/2022",
+   "title": "Lei nº 4.066, de 2 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1501",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1501/lei_4.066-2022.pdf",
+     "sha256": "0d66fdccbc05c2d26d6cd5e46516c403af0339259ece015956da4117975bf314"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04065",
+   "short": "Lei 4065/2022",
+   "title": "Lei nº 4.065, de 2 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1536",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1536/lei_4.065-2022.pdf",
+     "sha256": "b87ef5f86270a907c989708bc5ca929d9e2dc91df2a1c6349bfbd117da3a8c84"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04064",
+   "short": "Lei 4064/2022",
+   "title": "Lei nº 4.064, de 1 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1535",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1535/lei_4.064-2022.pdf",
+     "sha256": "38a9a12858e9c97f77c54f1d78f35e46c4be3ea0c34b7b1d68b65e015a898922"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04063",
+   "short": "Lei 4063/2022",
+   "title": "Lei nº 4.063, de 1 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1534",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1534/lei_4.063-2022.pdf",
+     "sha256": "b3c2ee3c33820b804d92ed5565a78355eb0e24cdf71fa73ab0695986350b7c16"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04062",
+   "short": "Lei 4062/2022",
+   "title": "Lei nº 4.062, de 1 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1533",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1533/lei_4.062-2022.pdf",
+     "sha256": "cf30dc043e2fe927baf57501d29bce6127349a637fbaab83529ed195403e44ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04061",
+   "short": "Lei 4061/2022",
+   "title": "Lei nº 4.061, de 1 de dezembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1500",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1500/lei_4.061-2022.pdf",
+     "sha256": "01496d7e45cbbf1364407b3b8902a10466e93d717a7c1fc9a998c91e3d77a5a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04060",
+   "short": "Lei 4060/2022",
+   "title": "Lei nº 4.060, de 30 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1499",
+   "versions": [
+    {
+     "from": "2022-12-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1499/lei_4.060-2022.pdf",
+     "sha256": "66013f4793c23eb0cfe965579224e0aa27a152b151b45bab2e58ebbe348b63b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04058",
+   "short": "Lei 4058/2022",
+   "title": "Lei nº 4.058, de 29 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1495",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1495/lei_4.058-2022.pdf",
+     "sha256": "dd0b987739718d7b3e6af055d47804379ea1a3b4b684ac10326ac976fccac702"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04057",
+   "short": "Lei 4057/2022",
+   "title": "Lei nº 4.057, de 28 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1494",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1494/lei_4.057-2022.pdf",
+     "sha256": "a530d7d5d856e373f3a7f30d8ca5aadf847a87161c82175810598e4dd3e173ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04056",
+   "short": "Lei 4056/2022",
+   "title": "Lei nº 4.056, de 28 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1493",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1493/lei_4.056-2022.pdf",
+     "sha256": "52e0c226216863b4a957243896bca391628b0e265363d08d071e6e28afd05da3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04055",
+   "short": "Lei 4055/2022",
+   "title": "Lei nº 4.055, de 25 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1497",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1497/lei_4.055-2022.pdf",
+     "sha256": "1eac5c20747d453c45c1bb33e3101bdfd8649342b5188cb3d39644d2d40fa608"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04054",
+   "short": "Lei 4054/2022",
+   "title": "Lei nº 4.054, de 25 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1492",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1492/lei_4.054-2022.pdf",
+     "sha256": "206d20f36e1cac49446d27c1aeffec50244ee5396602ab9cf52208bbbcbfd1d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04053",
+   "short": "Lei 4053/2022",
+   "title": "Lei nº 4.053, de 25 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1496",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1496/lei_4.053-2022.pdf",
+     "sha256": "b84340bc92864b2e5b213596f9fc939a827eece14fb5c6af5940f3d954ae0819"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04048",
+   "short": "Lei 4048/2022",
+   "title": "Lei nº 4.048, de 22 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1491",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1491/lei_4.048-2022.pdf",
+     "sha256": "050d8821c5c82ee19c602d4a31af8bcfff13daee2dc0783cd8d0c4587fb34359"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04047",
+   "short": "Lei 4047/2022",
+   "title": "Lei nº 4.047, de 18 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1490",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1490/lei_4.047-2022.pdf",
+     "sha256": "b33c31db619747a68651f36c3ee0bf8bb3e47c73b1f784dd2783395e41e28968"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04046",
+   "short": "Lei 4046/2022",
+   "title": "Lei nº 4.046, de 18 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1489",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1489/lei_4.046-2022.pdf",
+     "sha256": "c0596bde72170b8ef258fc86fd0b8c7566a1f2ed334017e60f53d958244cf34d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04045",
+   "short": "Lei 4045/2022",
+   "title": "Lei nº 4.045, de 18 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1488",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1488/lei_4.045-2022.pdf",
+     "sha256": "d0475452cf0b78cce1333afc9673f37076c9759a07f7f6479091fdfd2a49657f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04044",
+   "short": "Lei 4044/2022",
+   "title": "Lei nº 4.044, de 16 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1482",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1482/lei_4.044-2022.pdf",
+     "sha256": "92e4c0ecd6fd65e0e74536333cf890eb931d75864f12aecaad0723e5b7537b34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04043",
+   "short": "Lei 4043/2022",
+   "title": "Lei nº 4.043, de 16 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1481",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1481/lei_4.043-2022.pdf",
+     "sha256": "06ea4a5afbc4f4de70d3061f67f2d343f0f24cb4a9c87d386c1aa0796df775c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04042",
+   "short": "Lei 4042/2022",
+   "title": "Lei nº 4.042, de 16 de novembro de 2022",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1480",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2022/1480/lei_4.042-2022.pdf",
+     "sha256": "f8b15035de46ce8408d6e8bd284e30ebfe46f707d9216c5d46ace476ce311ccb"
+    }
+   ]
   }
  ]
 }
