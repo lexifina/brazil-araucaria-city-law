@@ -3164,6 +3164,286 @@
      "sha256": "23bc7078d101fdee8bfd612760993849ccd4333f8fead562d28943a0f5c9f638"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-04165",
+   "short": "Lei 4165/2023",
+   "title": "Lei nº 4.165, de 14 de junho de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1748",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1748/4.165-2023_-_materia_publicada_no_dia_16_06_2023_edicao_1346_2023.pdf",
+     "sha256": "e35e81132b6fc060924fae77c843f81b609bdaad9d744b1b93405b93e9f82ce4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04164",
+   "short": "Lei 4164/2023",
+   "title": "Lei nº 4.164, de 14 de junho de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1743",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1743/4.164-2023_-_materia_publicada_no_dia_16_06_2023_edicao_1346_2023.pdf",
+     "sha256": "fd2cbfe6139e942c18bf2d2a313be65aeeffb4f195c33b183582b60d36c7595c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04161",
+   "short": "Lei 4161/2023",
+   "title": "Lei nº 4.161, de 6 de junho de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1652",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1652/4.161-2023_-_materia_publicada_no_dia_16062023._edicao_13462023.pdf",
+     "sha256": "bbb317e2bead7c58ccd5615aa6e3d456d7dee79ba80a221b94e25f2c8a7cede9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04160",
+   "short": "Lei 4160/2023",
+   "title": "Lei nº 4.160, de 24 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1610",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1610/4.160-2023_-_materia_publicada_no_dia_29052023._edicao_13342023.pdf",
+     "sha256": "e479333e18fb16620f20ca39f78fa1ad048ac60dba91b92378562368004fd052"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04159",
+   "short": "Lei 4159/2023",
+   "title": "Lei nº 4.159, de 18 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1609",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1609/4.159-2023_-_materia_publicada_no_dia_26052023._edicao_13332023.pdf",
+     "sha256": "6ff8a3c775090d8cfc04e174edfd01c2eb5a9ddbaa7b976e7c4d50f291cec929"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04158",
+   "short": "Lei 4158/2023",
+   "title": "Lei nº 4.158, de 17 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1608",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1608/4.158-2023_-_materia_publicada_no_dia_23052023._edicao_13302023.pdf",
+     "sha256": "460523ed5cb0f21470f619d0470ceb122dade0a60e08f88ee44a7defd985e021"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04157",
+   "short": "Lei 4157/2023",
+   "title": "Lei nº 4.157, de 17 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1607",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1607/4.157-2023_-_materia_publicada_no_dia_23052023._edicao_13302023.pdf",
+     "sha256": "5aa7ef519cc65c3858468f8b2ea4aa8e4f93a47319fdc0ffc6471e9bd78261d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04156",
+   "short": "Lei 4156/2023",
+   "title": "Lei nº 4.156, de 17 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1606",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 9,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1606/4.156-2023_-_materia_publicada_no_dia_19052023._edicao_13282023.pdf",
+     "sha256": "6c5d6e5b34d7bcace587179e7e93448b71689e7bfb28bce74a9938629dbe7f83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04155",
+   "short": "Lei 4155/2023",
+   "title": "Lei nº 4.155, de 15 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1605",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1605/4.155-2023_-_materia_publicada_no_dia_19052023._edicao_13282023.pdf",
+     "sha256": "47c9f2a7cd7a9d999a54bafc58b9f94f0b96cd8cccfad98482fdab7e29f1de80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04154",
+   "short": "Lei 4154/2023",
+   "title": "Lei nº 4.154, de 15 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1604",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1604/4.154-2023_-_materia_publicada_no_dia_18052023._edicao_13272023.pdf",
+     "sha256": "939ee82ceb0d83bbc6e18c3407f2050404374dc4f7c18a90533dd47c5045829c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04153",
+   "short": "Lei 4153/2023",
+   "title": "Lei nº 4.153, de 15 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1603",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 23,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1603/4.153-2023_-_materia_publicada_no_dia_18052023._edicao_13272023.pdf",
+     "sha256": "c7a74a1ec38981535a2df2cddf7eeed0f2b3ba40ced08fd0f45c7ae49d2264b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04152",
+   "short": "Lei 4152/2023",
+   "title": "Lei nº 4.152, de 15 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1611",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 65,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1611/4.152-2023_-_materia_publicada_no_dia_19052023._edicao_13282023.pdf",
+     "sha256": "45ba15a21ca49863948b36e8aa3e626c001d99f86a373d033aa003aa30939e6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04149",
+   "short": "Lei 4149/2023",
+   "title": "Lei nº 4.149, de 11 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1600",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1600/4.149-2023_-_materia_publicada_no_dia_19052023._edicao_13282023.pdf",
+     "sha256": "966121573cce47640fda734256256f3ea67bce80c4a78aba532652897a5fb40e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04148",
+   "short": "Lei 4148/2023",
+   "title": "Lei nº 4.148, de 8 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1599",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1599/4.148-2023_-_materia_publicada_no_dia_18052023._edicao_13272023.pdf",
+     "sha256": "29b4e8db87f61c52774dafdace9b8ef072a5ef26456388e99d0201df69aa6415"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04145",
+   "short": "Lei 4145/2023",
+   "title": "Lei nº 4.145, de 3 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1598",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1598/4.145-2023_-_materia_publicada_no_dia_19052023._edicao_13282023.pdf",
+     "sha256": "de7aefdf8e278b6198406f04e11c632f4e98971feee29e729c4d8934f1862a6b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04144",
+   "short": "Lei 4144/2023",
+   "title": "Lei nº 4.144, de 2 de maio de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1594",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1594/4.144-2023_materia_publicada_no_dia_08-05-2023._edicao_1319_2023.pdf",
+     "sha256": "740d835b506f8efe03af9fb59fc75b8d6d5b65f481fcbe968d88f5038322edbe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04143",
+   "short": "Lei 4143/2023",
+   "title": "Lei nº 4.143, de 28 de abril de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1593",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1593/4.143-2023_materia_publicada_no_dia_08-05-2023._edicao_1319_2023.pdf",
+     "sha256": "d818db19a79e53417389fb65776687b4106fd134d3e11c5264f6f2ed714e2d99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04142",
+   "short": "Lei 4142/2023",
+   "title": "Lei nº 4.142, de 28 de abril de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1592",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1592/4.142-2023_materia_publicada_no_dia_08-05-2023._edicao_1319_2023.pdf",
+     "sha256": "ce2c7ccc5ffb13e56e325f30ddf350202ebbd1992a9fd9fbb3f0a097e0cda847"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04141",
+   "short": "Lei 4141/2023",
+   "title": "Lei nº 4.141, de 25 de abril de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1589",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1589/4.141-2023_materia_publicada_no_dia_02052023._edicao_1315_2023.pdf",
+     "sha256": "b5960ea1e48c31245322a04c2250d4a203cdc71b51bded49a64267ad285fc5f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04140",
+   "short": "Lei 4140/2023",
+   "title": "Lei nº 4.140, de 25 de abril de 2023",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1588",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2023/1588/4.140-2023_materia_publicada_no_dia_02052023._edicao_1315_2023.pdf",
+     "sha256": "13dd40029a74fa7a50d38626bc929987265b53282f4ddb9f94de08d9580c77a4"
+    }
+   ]
   }
  ]
 }
