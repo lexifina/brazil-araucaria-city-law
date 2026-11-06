@@ -7784,6 +7784,664 @@
      "sha256": "9265c8179d1f4eec9b6b753d7d77e5e97e84d3ea08eb46e8e226c86f8d52bbac"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-03588",
+   "short": "Lei 3588/2020",
+   "title": "Lei nº 3.588, de 5 de março de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1004",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1004/lei_3.588-2020.pdf",
+     "sha256": "7060d1c2398274aa1727d563d76dcae9edf1e7554227582523b3912e89a7acc3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03582",
+   "short": "Lei 3582/2020",
+   "title": "Lei nº 3.582, de 31 de janeiro de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/980",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 10,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/980/lei_3.582-2020.pdf",
+     "sha256": "19b3e4d9d5a4f6ce40db32e1fba0d835a6600cac8599fa579e3bbd2396dd5471"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03580",
+   "short": "Lei 3580/2020",
+   "title": "Lei nº 3.580, de 8 de janeiro de 2020",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1008",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2020/1008/lei_3.580-2020.pdf",
+     "sha256": "5c5221fe46f52a46f44fbf1434c75cd66c2e6ecec2e02473633331be5dc530a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03579",
+   "short": "Lei 3579/2019",
+   "title": "Lei nº 3.579, de 27 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/1009",
+   "versions": [
+    {
+     "from": "2020-01-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/1009/lei_3.579-2020.pdf",
+     "sha256": "7149e7b803bbf39ef1f1b34b8b36528192bc32af864f76c797d6980b02de288a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03576",
+   "short": "Lei 3576/2019",
+   "title": "Lei nº 3.576, de 18 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/960",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/960/lei_3.576-19.pdf",
+     "sha256": "5479279acb66b70865628ba323b92260ba751e9c8eb13f729a0cba4f2b3995bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03575",
+   "short": "Lei 3575/2019",
+   "title": "Lei nº 3.575, de 18 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/959",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/959/lei_3.575-19.pdf",
+     "sha256": "38737bb8a13f538ed3c5037c827f5e6973ea2a29df77540b1ee445dbc0e70e8d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03572",
+   "short": "Lei 3572/2019",
+   "title": "Lei nº 3.572, de 16 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/956",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/956/lei_3.572-19.pdf",
+     "sha256": "09f86ec6c9febe0530adf12153eab6f5813420ef93873ca832821c46a71e5632"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03571",
+   "short": "Lei 3571/2019",
+   "title": "Lei nº 3.571, de 13 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/955",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 12,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/955/lei_3.571-19.pdf",
+     "sha256": "61f3b82553156a160f111165d04f1b09076bbd815e19cc2513413811651bdcf4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03569",
+   "short": "Lei 3569/2019",
+   "title": "Lei nº 3.569, de 11 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/950",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/950/lei_3.569-19.pdf",
+     "sha256": "e6437aaec7fce0922dd392dde866b9e8b8a9bc415980c1e996cafe0cf9ddc573"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03564",
+   "short": "Lei 3564/2019",
+   "title": "Lei nº 3.564, de 9 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/949",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/949/lei_3.564-19.pdf",
+     "sha256": "13a7f99c8709ef5c94491ad75ea6874400eba65c8a5eea1a58bdf032d7b48690"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03563",
+   "short": "Lei 3563/2019",
+   "title": "Lei nº 3.563, de 9 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/948",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/948/lei_3.563-19.pdf",
+     "sha256": "121a5fa0ce4be189cc3b7b8690d9d019191d01643f5b07734f0f80fdff82a57f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03562",
+   "short": "Lei 3562/2019",
+   "title": "Lei nº 3.562, de 6 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/947",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/947/lei_3.562-19.pdf",
+     "sha256": "0633fa6f2d66e8560b2d73d60cd745ebf047f05be8897e96f3696f89492b0e7d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03570",
+   "short": "Lei 3570/2019",
+   "title": "Lei nº 3.570, de 5 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/954",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/954/lei_3.570-19.pdf",
+     "sha256": "5b5c6a77f84ead5e64c882e846f1015405997c163c58a05b4d8c9a0d4b62e20c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03561",
+   "short": "Lei 3561/2019",
+   "title": "Lei nº 3.561, de 5 de dezembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/953",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/953/lei_3.561-19.pdf",
+     "sha256": "0d61ba92dd5b7999178c65d051f7039c6508eaec0f79034e6d61d329203de110"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03555",
+   "short": "Lei 3555/2019",
+   "title": "Lei nº 3.555, de 26 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/941",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/941/lei_3.555-19.pdf",
+     "sha256": "81aea7b48b6453fae1aed9e74e330496eab685b3c3b0705308191b5601d6ebac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03553",
+   "short": "Lei 3553/2019",
+   "title": "Lei nº 3.553, de 26 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/939",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/939/lei_3.553-19.pdf",
+     "sha256": "e00d7a75f9367c790ddd8adf903413c3394ddf983a6a832d1aa366c96e5413eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03552",
+   "short": "Lei 3552/2019",
+   "title": "Lei nº 3.552, de 22 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/943",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/943/lei_3.552-19.pdf",
+     "sha256": "d6b696ab91ed9f1f458306a288d7a2e8dd50ace0339b438e23cfc08a1a9e40c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03551",
+   "short": "Lei 3551/2019",
+   "title": "Lei nº 3.551, de 22 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/942",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/942/lei_3.551-19.pdf",
+     "sha256": "360f1809cd868e3155422d526158c666b04c98d750340735d6d24dd12de58592"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03549",
+   "short": "Lei 3549/2019",
+   "title": "Lei nº 3.549, de 21 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/945",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/945/lei_3.549-19.pdf",
+     "sha256": "93989d7266915f0247c6aecf94f94975b63da73de72f4770cf06797afc00d96c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03548",
+   "short": "Lei 3548/2019",
+   "title": "Lei nº 3.548, de 20 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/944",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/944/lei_3.548-19.pdf",
+     "sha256": "aabf89498d02f44a732a5e0fc569fe16ccf7a009c36b1f227ee5d0c6fdaf64db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03546",
+   "short": "Lei 3546/2019",
+   "title": "Lei nº 3.546, de 18 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/936",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/936/lei_3.546-19.pdf",
+     "sha256": "b75f04b103d2c4497ed096c9564dc8934daab737a09388128d3422121de3c305"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03545",
+   "short": "Lei 3545/2019",
+   "title": "Lei nº 3.545, de 18 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/935",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/935/lei_3.545-19.pdf",
+     "sha256": "a2e6fd51cfa00789eadd3072eff9b311abfb5ed1b583344e6212c76e008bc9d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03542",
+   "short": "Lei 3542/2019",
+   "title": "Lei nº 3.542, de 14 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/933",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/933/lei_3.542-19.pdf",
+     "sha256": "fdcf478bf5e5308ea20ef522e87622cc5fc9aedc903514dffe00522531b3a908"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03541",
+   "short": "Lei 3541/2019",
+   "title": "Lei nº 3.541, de 14 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/934",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/934/lei_3.541-19.pdf",
+     "sha256": "825e8374eb74ef4013e42074991ac44d8ce1d8a8f9e6bf451646db94105f5139"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03539",
+   "short": "Lei 3539/2019",
+   "title": "Lei nº 3.539, de 7 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/929",
+   "versions": [
+    {
+     "from": "2019-11-14",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/929/lei_3.539-19.pdf",
+     "sha256": "e798b2f5919d0a8aac4f49adb1f7570159697b0b234473b2fa592aaf974f793b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03537",
+   "short": "Lei 3537/2019",
+   "title": "Lei nº 3.537, de 5 de novembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/928",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/928/lei_3.537-19.pdf",
+     "sha256": "b669df05cd97dbe088aad097f0e1c9732772f0bd2020b57f31851ff33cea23e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03536",
+   "short": "Lei 3536/2019",
+   "title": "Lei nº 3.536, de 31 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/926",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 3,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/926/lei_3.536-19.pdf",
+     "sha256": "8940b2a837389f3aeb474c4464b4d4f2e264f6a04a85e700313b5067982245ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03535",
+   "short": "Lei 3535/2019",
+   "title": "Lei nº 3.535, de 28 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/925",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/925/lei_3.535-19.pdf",
+     "sha256": "c615f331f8d7d1454eaa7b80b25ee3371b7c3edaa7eac5b636ca72696040351a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03534",
+   "short": "Lei 3534/2019",
+   "title": "Lei nº 3.534, de 25 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/924",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/924/lei_3.534-19.pdf",
+     "sha256": "9821fcca1c359a46029f6b54c3a40f8d1a0d49b56d0db16969ca517550198d64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03532",
+   "short": "Lei 3532/2019",
+   "title": "Lei nº 3.532, de 23 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/922",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/922/lei_3.532-19.pdf",
+     "sha256": "d4fd54a64e8e32a1c827a0630eb5c21f1ecabddc5e92e79693f00a8d9081245c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03531",
+   "short": "Lei 3531/2019",
+   "title": "Lei nº 3.531, de 23 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/927",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/927/lei_3.531-19.pdf",
+     "sha256": "79f2082fdcc8ff6dd8c6ba0372a044b203c6bcc8a8d5ee72d9ef4f8e1711b1bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03530",
+   "short": "Lei 3530/2019",
+   "title": "Lei nº 3.530, de 23 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/916",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/916/lei_3.530-19.pdf",
+     "sha256": "b93cc3365515b3a2b4c7066ba7f5721d0c0ea734a41d007b452ac540118b69a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03529",
+   "short": "Lei 3529/2019",
+   "title": "Lei nº 3.529, de 23 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/921",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/921/lei_3.529-19.pdf",
+     "sha256": "a878cf6425c4430458687f3cee5f4e72b6a9ab44dc8bb7c7e43b3fd22fb0d722"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03528",
+   "short": "Lei 3528/2019",
+   "title": "Lei nº 3.528, de 23 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/920",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/920/lei_3.528-19.pdf",
+     "sha256": "51c61396f60493a8d4012c08d7426ffb9849ccaa634cae1b7e3df11387446bf7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03524",
+   "short": "Lei 3524/2019",
+   "title": "Lei nº 3.524, de 4 de outubro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/914",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/914/lei_3.524-19.pdf",
+     "sha256": "b11b302035120cff89d3d8d74739a09885574384f97f8be0ef31bfa935135bb4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03523",
+   "short": "Lei 3523/2019",
+   "title": "Lei nº 3.523, de 30 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/913",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/913/lei_3.523-19.pdf",
+     "sha256": "c581424c016b524a3649760bba1ec76f4b13cca4e663be98c03e0cd72b0d7667"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03522",
+   "short": "Lei 3522/2019",
+   "title": "Lei nº 3.522, de 26 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/912",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/912/lei_3.522-19.pdf",
+     "sha256": "7669071d788364e3d755820134b4a1dbcaa58b4ce7499ccf44e22599b8de0aff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03521",
+   "short": "Lei 3521/2019",
+   "title": "Lei nº 3.521, de 25 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/911",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/911/lei_3.521-19.pdf",
+     "sha256": "25635bb9d9530ec36b321468d24acf111b815bb63463a6284e9e8377fc921bf7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03520",
+   "short": "Lei 3520/2019",
+   "title": "Lei nº 3.520, de 24 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/908",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/908/lei_3.520-19.pdf",
+     "sha256": "1c0fa3aa8a3765cf3d2a6164b833c9609c8a4dc21310b928aa44ddde45568aee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03519",
+   "short": "Lei 3519/2019",
+   "title": "Lei nº 3.519, de 24 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/909",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 5,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/909/lei_3.519-19.pdf",
+     "sha256": "a2521a951f03f1c148e3cffecdfeb88a8b8d47f74e3a57138437ea609b18a3ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03518",
+   "short": "Lei 3518/2019",
+   "title": "Lei nº 3.518, de 24 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/907",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/907/lei_3.518-19.pdf",
+     "sha256": "3aaa0761640d765f9763e9215df0a815a9a8c178d2648a160733ad5a3304aabb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03517",
+   "short": "Lei 3517/2019",
+   "title": "Lei nº 3.517, de 19 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/906",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/906/lei_3.517-19.pdf",
+     "sha256": "1ae6c7262f9365555ceafb6f3dbe3e6e34263de153137d96326989ec4b70256c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03516",
+   "short": "Lei 3516/2019",
+   "title": "Lei nº 3.516, de 12 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/905",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/905/lei_3.516-19.pdf",
+     "sha256": "b22f9b03d3b750a7480ecbebb2b45159ddd4e0503ddf981892d5f2a0e3657dc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03514",
+   "short": "Lei 3514/2019",
+   "title": "Lei nº 3.514, de 12 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/902",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 6,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/902/lei_3.514-19.pdf",
+     "sha256": "8d0ae10e518b7897f11e62d3217cd904afff6989e725a355064e54b2137e8915"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03513",
+   "short": "Lei 3513/2019",
+   "title": "Lei nº 3.513, de 11 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/904",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 4,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/904/lei_3.513-19.pdf",
+     "sha256": "51fa8134497d57e89de464e8c1925e6bb5941a87d2ed33370cb67076b3aea500"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03511",
+   "short": "Lei 3511/2019",
+   "title": "Lei nº 3.511, de 4 de setembro de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/901",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/901/lei_3.511-19.pdf",
+     "sha256": "f501fa143ff68c6ef4c66d53abe7a11b1827db2fe7119595eb3d122816d6f7f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-03510",
+   "short": "Lei 3510/2019",
+   "title": "Lei nº 3.510, de 30 de agosto de 2019",
+   "url": "https://sapl.araucaria.pr.leg.br/norma/898",
+   "versions": [
+    {
+     "from": "2019-09-02",
+     "units": 7,
+     "source_url": "https://sapl.araucaria.pr.leg.br/media/sapl/public/normajuridica/2019/898/lei_3.510-19.pdf",
+     "sha256": "3ffcf5b64846c595028598a9df3d76b00050f931c01470ec648b596582640d83"
+    }
+   ]
   }
  ]
 }

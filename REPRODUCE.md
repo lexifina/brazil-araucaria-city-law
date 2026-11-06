@@ -29,6 +29,8 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Araucária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.araucaria.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Araucária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.araucaria.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -592,20 +594,67 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2020-03592` | Lei nº 3.592, de 5 de março de 2020 | 1 | 2020-03-12 to 2020-03-12 |
 | `lei-2020-03591` | Lei nº 3.591, de 5 de março de 2020 | 1 | 2020-03-12 to 2020-03-12 |
 | `lei-2020-03589` | Lei nº 3.589, de 5 de março de 2020 | 1 | 2020-03-12 to 2020-03-12 |
+| `lei-2020-03588` | Lei nº 3.588, de 5 de março de 2020 | 1 | 2020-03-12 to 2020-03-12 |
+| `lei-2020-03582` | Lei nº 3.582, de 31 de janeiro de 2020 | 1 | 2020-02-04 to 2020-02-04 |
+| `lei-2020-03580` | Lei nº 3.580, de 8 de janeiro de 2020 | 1 | 2020-01-13 to 2020-01-13 |
+| `lei-2019-03579` | Lei nº 3.579, de 27 de dezembro de 2019 | 1 | 2020-01-03 to 2020-01-03 |
+| `lei-2019-03576` | Lei nº 3.576, de 18 de dezembro de 2019 | 1 | 2019-12-20 to 2019-12-20 |
+| `lei-2019-03575` | Lei nº 3.575, de 18 de dezembro de 2019 | 1 | 2019-12-20 to 2019-12-20 |
+| `lei-2019-03572` | Lei nº 3.572, de 16 de dezembro de 2019 | 1 | 2019-12-17 to 2019-12-17 |
+| `lei-2019-03571` | Lei nº 3.571, de 13 de dezembro de 2019 | 1 | 2019-12-17 to 2019-12-17 |
+| `lei-2019-03569` | Lei nº 3.569, de 11 de dezembro de 2019 | 1 | 2019-12-13 to 2019-12-13 |
+| `lei-2019-03564` | Lei nº 3.564, de 9 de dezembro de 2019 | 1 | 2019-12-11 to 2019-12-11 |
+| `lei-2019-03563` | Lei nº 3.563, de 9 de dezembro de 2019 | 1 | 2019-12-11 to 2019-12-11 |
+| `lei-2019-03562` | Lei nº 3.562, de 6 de dezembro de 2019 | 1 | 2019-12-09 to 2019-12-09 |
+| `lei-2019-03570` | Lei nº 3.570, de 5 de dezembro de 2019 | 1 | 2019-12-17 to 2019-12-17 |
+| `lei-2019-03561` | Lei nº 3.561, de 5 de dezembro de 2019 | 1 | 2019-12-17 to 2019-12-17 |
+| `lei-2019-03555` | Lei nº 3.555, de 26 de novembro de 2019 | 1 | 2019-11-28 to 2019-11-28 |
+| `lei-2019-03553` | Lei nº 3.553, de 26 de novembro de 2019 | 1 | 2019-11-28 to 2019-11-28 |
+| `lei-2019-03552` | Lei nº 3.552, de 22 de novembro de 2019 | 1 | 2019-12-02 to 2019-12-02 |
+| `lei-2019-03551` | Lei nº 3.551, de 22 de novembro de 2019 | 1 | 2019-12-02 to 2019-12-02 |
+| `lei-2019-03549` | Lei nº 3.549, de 21 de novembro de 2019 | 1 | 2019-12-02 to 2019-12-02 |
+| `lei-2019-03548` | Lei nº 3.548, de 20 de novembro de 2019 | 1 | 2019-12-02 to 2019-12-02 |
+| `lei-2019-03546` | Lei nº 3.546, de 18 de novembro de 2019 | 1 | 2019-11-20 to 2019-11-20 |
+| `lei-2019-03545` | Lei nº 3.545, de 18 de novembro de 2019 | 1 | 2019-11-20 to 2019-11-20 |
+| `lei-2019-03542` | Lei nº 3.542, de 14 de novembro de 2019 | 1 | 2019-11-20 to 2019-11-20 |
+| `lei-2019-03541` | Lei nº 3.541, de 14 de novembro de 2019 | 1 | 2019-11-19 to 2019-11-19 |
+| `lei-2019-03539` | Lei nº 3.539, de 7 de novembro de 2019 | 1 | 2019-11-14 to 2019-11-14 |
+| `lei-2019-03537` | Lei nº 3.537, de 5 de novembro de 2019 | 1 | 2019-11-07 to 2019-11-07 |
+| `lei-2019-03536` | Lei nº 3.536, de 31 de outubro de 2019 | 1 | 2019-11-05 to 2019-11-05 |
+| `lei-2019-03535` | Lei nº 3.535, de 28 de outubro de 2019 | 1 | 2019-11-01 to 2019-11-01 |
+| `lei-2019-03534` | Lei nº 3.534, de 25 de outubro de 2019 | 1 | 2019-10-29 to 2019-10-29 |
+| `lei-2019-03532` | Lei nº 3.532, de 23 de outubro de 2019 | 1 | 2019-10-28 to 2019-10-28 |
+| `lei-2019-03531` | Lei nº 3.531, de 23 de outubro de 2019 | 1 | 2019-11-07 to 2019-11-07 |
+| `lei-2019-03530` | Lei nº 3.530, de 23 de outubro de 2019 | 1 | 2019-10-24 to 2019-10-24 |
+| `lei-2019-03529` | Lei nº 3.529, de 23 de outubro de 2019 | 1 | 2019-10-25 to 2019-10-25 |
+| `lei-2019-03528` | Lei nº 3.528, de 23 de outubro de 2019 | 1 | 2019-10-25 to 2019-10-25 |
+| `lei-2019-03524` | Lei nº 3.524, de 4 de outubro de 2019 | 1 | 2019-10-07 to 2019-10-07 |
+| `lei-2019-03523` | Lei nº 3.523, de 30 de setembro de 2019 | 1 | 2019-10-03 to 2019-10-03 |
+| `lei-2019-03522` | Lei nº 3.522, de 26 de setembro de 2019 | 1 | 2019-10-03 to 2019-10-03 |
+| `lei-2019-03521` | Lei nº 3.521, de 25 de setembro de 2019 | 1 | 2019-09-27 to 2019-09-27 |
+| `lei-2019-03520` | Lei nº 3.520, de 24 de setembro de 2019 | 1 | 2019-09-25 to 2019-09-25 |
+| `lei-2019-03519` | Lei nº 3.519, de 24 de setembro de 2019 | 1 | 2019-09-26 to 2019-09-26 |
+| `lei-2019-03518` | Lei nº 3.518, de 24 de setembro de 2019 | 1 | 2019-09-25 to 2019-09-25 |
+| `lei-2019-03517` | Lei nº 3.517, de 19 de setembro de 2019 | 1 | 2019-09-20 to 2019-09-20 |
+| `lei-2019-03516` | Lei nº 3.516, de 12 de setembro de 2019 | 1 | 2019-09-16 to 2019-09-16 |
+| `lei-2019-03514` | Lei nº 3.514, de 12 de setembro de 2019 | 1 | 2019-09-13 to 2019-09-13 |
+| `lei-2019-03513` | Lei nº 3.513, de 11 de setembro de 2019 | 1 | 2019-09-16 to 2019-09-16 |
+| `lei-2019-03511` | Lei nº 3.511, de 4 de setembro de 2019 | 1 | 2019-09-06 to 2019-09-06 |
+| `lei-2019-03510` | Lei nº 3.510, de 30 de agosto de 2019 | 1 | 2019-09-02 to 2019-09-02 |
 
-The build made 556 commits:
+The build made 603 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 556 | first version of an act |
+| 603 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 556 laws in the record.
-- 1112 tags.
+- 603 laws in the record.
+- 1206 tags.
 
 ## Dates
 
@@ -617,8 +666,8 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `37430a5061c87e4365ce3a085b6f029c73e9311f8b8dd99dd7f260215db93dde` (2560358 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `d2187ef34bdccbec45d745a40bf6a2494b17d9b5b4880204f3512354949870f2` (2748926 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -698,6 +747,12 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -708,6 +763,8 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
